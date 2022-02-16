@@ -1,0 +1,9 @@
+.container{
+    background: var(--primary);
+    padding: 16px;
+}
+
+.container p{
+    margin-top: 20px;
+    
+}

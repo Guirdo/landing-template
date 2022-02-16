@@ -1,0 +1,11 @@
+.container{
+    background: var(--light);
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.formGroup{
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+}
